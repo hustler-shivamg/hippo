@@ -1,0 +1,14 @@
+<svg height="812" viewBox="0 0 375 812" width="375" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <clipPath id="a">
+        <path d="m0 0h375v812h-375z" />
+    </clipPath>
+    <g clip-path="url(#a)">
+        <path d="m0 0h375v812h-375z" fill="#fff" />
+        <circle cx="246" cy="246" fill="#92e0ff" r="246" transform="translate(85 -86)" />
+        <circle cx="246" cy="246" fill="#ff7bac" r="246" transform="translate(-185 -16)" />
+        <text fill="#fff" font-family="SegoeUI-Bold, Segoe UI" font-size="22" font-weight="700"
+            transform="translate(184 757)">
+        </text>
+    </g>
+</svg>
